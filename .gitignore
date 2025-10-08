@@ -6,3 +6,6 @@
 /bin/
 
 /src/util/Version.java
+*.gz
+*.db
+/ijadataset/dataset
